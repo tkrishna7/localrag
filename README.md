@@ -1,4 +1,4 @@
-# Local RAG System Demo
+# Local RAG 
 
 A Retrieval-Augmented Generation (RAG) system that runs entirely locally using ChromaDB for vector storage, SentenceTransformers for embeddings, and Ollama for language model inference.
 
