@@ -426,5 +426,4 @@ def main():
         print("Make sure you have installed all required packages and Ollama is running.")
 
 if __name__ == "__main__":
-    print("Local RAG System")
     main()
